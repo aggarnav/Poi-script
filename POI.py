@@ -27,8 +27,8 @@ def poi():
         #  json format data into python format data
         x = r.json()
         if str(x["status"]) == "OVER_QUERY_LIMIT":
-            print("exceeded per second limit, stopping for some time, change the query just to reload the get request once input is asked for")
-            time.sleep(20)
+            print("exceeded per minute limit, stopping for some time")
+            time.sleep(55)
             poi()
         y = x["results"]
 
