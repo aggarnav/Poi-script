@@ -1,0 +1,38 @@
+C:\Users\Lenovo\AppData\Local\Programs\Python\Python36\python.exe C:/Users/Lenovo/PycharmProjects/POIs/POI.py
+enter places api key: AIzaSyAwjpLKQAFkUrLAheloJC95NDN3aBDJIQw
+enter the query: spain
+0: Spain
+The index of place you want to add: 0
+Enter required heading: 25
+Enter required tilt: 63
+enter the query: france
+exceeded per second limit, stopping for some time
+enter the query: france
+exceeded per second limit, stopping for some time
+enter the query: hotels in delhi
+0: Radisson Blu Hotel Paschim Vihar
+1: Le Méridien New Delhi
+2: The Taj Mahal Hotel, New Delhi
+3: Ginger Hotel East Delhi
+4: ITC Maurya
+5: The Leela Ambience Convention Hotel Delhi
+6: Radisson Blu Plaza Delhi Airport
+7: The Leela Palace New Delhi
+8: JW Marriott Hotel New Delhi Aerocity
+9: Hotel Le Roi Delhi
+10: The LaLiT New Delhi
+11: Crowne Plaza New Delhi Okhla
+12: Novotel New Delhi Aerocity
+13: Radisson Blu New Delhi Dwarka
+14: Welcome Hotel Dwarka
+15: Orana Hotels and Resorts
+16: Country Inn & Suites by Radisson, Delhi Satbari
+17: Shangri- La's - Eros Hotel, New Delhi
+18: Caspia Hotel - New Delhi
+19: Piccadily New Delhi
+The index of place you want to add: 19
+Enter required heading: 5
+Enter required tilt: 5
+enter the query: stop
+
+Process finished with exit code 0
