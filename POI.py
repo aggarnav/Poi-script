@@ -33,5 +33,5 @@ while True:
     lng = y[int(index)]['geometry']['location']['lng']
     heading = input("Enter required heading: ")
     tilt = input("Enter required tilt: ")
-    f.write("Earth@"+name+"@flytoview=<LookAt><longitude>"+str(lng)+"</longitude><latitude>"+str(lat)+"</latitude><altitude>0</altitude><heading>"+heading+"</heading><tilt>"+tilt+"</tilt><gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode></LookAt>/n")
+    f.write("Earth@"+name+"@flytoview=<LookAt><longitude>"+str(lng)+"</longitude><latitude>"+str(lat)+"</latitude><altitude>0</altitude><heading>"+heading+"</heading><tilt>"+tilt+"</tilt><gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode></LookAt>\n")
 f.close()
